@@ -1,0 +1,1 @@
+# Legacy Repository\n\nThis project has been consolidated into the [orthfx-platform](https://github.com/orthfx/orthfx-platform) monorepo.\n\nPlease find the source code for this application in the `apps/pledge` directory of the monorepo.
